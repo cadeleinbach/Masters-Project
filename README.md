@@ -1,2 +1,3 @@
 # Masters-Project
 My master's project at UB researched noise-induced hearing loss using an animal model. I accounted for well-known strain and sex differences between mice. I was focused primarily on differences caused by varying time durations of noise exposure
+Each mouse needed to have their Auditory Brain Responses (ABRs) recorded at 5 different points throughout the period of noise exposure to measure their hearing loss. I formulated this table so that only the demographic information and the intended date for the first ABR needed to be entered. The rest of the dates were then generated from that initial point.  
